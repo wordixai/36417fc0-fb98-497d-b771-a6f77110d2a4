@@ -1,0 +1,37 @@
+{
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "cachedStatsigGates": {
+    "tengu_log_1p_events": false,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_tool_pear": false,
+    "tengu_web_tasks": true
+  },
+  "userID": "15d9e545a720f4d976bb552ecb3eb883212468ad3f20df101d8c8ff7281adebb",
+  "firstStartTime": "2025-12-03T15:05:55.234Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "projects": {
+    "/app": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [
+        "I don't have any file modification data to analyze. The lists of files modified by the user and other users are both empty.",
+        "",
+        "To provide you with five frequently modified core application logic files, I would need:",
+        "- A list of files with their modification counts from the user",
+        "- A list of files with their modification counts from other users",
+        "",
+        "Please provide the git history data and I'll identify the most relevant files."
+      ],
+      "exampleFilesGeneratedAt": 1764774359457
+    }
+  }
+}

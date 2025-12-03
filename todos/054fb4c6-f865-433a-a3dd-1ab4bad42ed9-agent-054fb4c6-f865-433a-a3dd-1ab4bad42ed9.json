@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Set up design system with monochrome color scheme and typography",
+    "status": "completed",
+    "activeForm": "Setting up design system"
+  },
+  {
+    "content": "Create core layout components (Header, Footer, Layout)",
+    "status": "completed",
+    "activeForm": "Creating core layout components"
+  },
+  {
+    "content": "Create sample project and blog data",
+    "status": "completed",
+    "activeForm": "Creating sample data"
+  },
+  {
+    "content": "Build project showcase components with filtering",
+    "status": "completed",
+    "activeForm": "Building project showcase components"
+  },
+  {
+    "content": "Create individual project detail page",
+    "status": "completed",
+    "activeForm": "Creating project detail page"
+  },
+  {
+    "content": "Add About, Services, and Contact pages",
+    "status": "completed",
+    "activeForm": "Adding About, Services, and Contact pages"
+  },
+  {
+    "content": "Implement blog with filtering system",
+    "status": "in_progress",
+    "activeForm": "Implementing blog with filtering"
+  },
+  {
+    "content": "Add dark mode support with theme provider",
+    "status": "pending",
+    "activeForm": "Adding dark mode support"
+  }
+]
